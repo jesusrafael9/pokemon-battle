@@ -31,7 +31,7 @@ Para instalar las dependencias del proyecto, sigue estos pasos:
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/jesusrafael9/pokemon-battle.git
 ```
 2. Navega al directorio del proyecto:
 
